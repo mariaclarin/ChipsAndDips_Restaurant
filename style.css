@@ -107,3 +107,17 @@ button {
 button :hover {
     color: red;
 }
+
+.center2 {
+    display: block;
+    margin-left: 80px;
+    margin-right: 10px;
+    width: 45%;
+    float: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.awards {
+    text-align: center;
+    padding-top: 5em;
+}
