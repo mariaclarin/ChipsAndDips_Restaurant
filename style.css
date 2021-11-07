@@ -25,11 +25,9 @@ header {
     margin-top: 2em;
 }
 
-/*new*/
 .nav__list a{
     font-size: 16px;
 }
-/*new*/
 
 .nav__list :hover {
     color: #eb2f06;
@@ -49,15 +47,15 @@ footer{
     font-family:'Work Sans', sans-serif;
     font-weight: bold;
     color: white;
-    font-size: 20px;
-    padding: 1%;
-    line-height: 25px;
+    font-size: 25px;
+    padding: 1.5%;
+    line-height: 28px;
 }
 
 .contact p,a {
     font-family:'Work Sans', sans-serif;
     color: white;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .logo {
@@ -132,6 +130,10 @@ button {
     text-transform: uppercase;
 }
 
+button a{
+    font-size: 30px;
+}
+
 .center2 {
     display: block;
     margin-left: auto;
@@ -140,11 +142,13 @@ button {
     float: left;
     margin-top: 10px;
     padding-left: 3em;
+    padding-bottom: 3em;
 }
 .awards {
     text-align: center;
     padding-top: 5em;
 }
+
 .center3 {
     display: block;
     margin-left: auto;
@@ -153,4 +157,3 @@ button {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
