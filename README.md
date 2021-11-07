@@ -15,3 +15,4 @@ We created a responsive website for a fine dining, western cuisine restaurant ca
 * promo.html          : promo page showing all available promotions available in the restaurant.
 * images (folder)     : a folder containing images used in the code.
 * storyboard (folder) : a folder containing all storyboard files / page sketches.
+* style.css           : the css file connected to index.html, menu.html, and promo.html
