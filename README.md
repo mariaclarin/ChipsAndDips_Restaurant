@@ -13,5 +13,5 @@ We created a responsive website for a fine dining, western cuisine restaurant ca
 * index.html          : landing page of the website / home page.
 * menu.html           : menu page containing all menus available, their names, and a short descriptiion of each menu.
 * promo.html          : promo page showing all available promotions available in the restaurant.
-* images (folder)     : a folder containing all images used in the code.
+* images (folder)     : a folder containing images used in the code.
 * storyboard (folder) : a folder containing all storyboard files / page sketches.
