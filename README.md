@@ -6,7 +6,7 @@
   * Maria Clarin - 2501990331 
   * Jocelin Wilson - 2501990331
 
-##Live Link
+## Live Link
 https://mariaclarin.github.io/ChipsAndDips_Restaurant/
 
 ## Description
